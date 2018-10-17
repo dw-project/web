@@ -1,4 +1,4 @@
-baseurl = "https://dwrtc.netlify.com/"
+baseurl = "https://dwrtc.net/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
