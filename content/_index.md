@@ -13,7 +13,7 @@ This project implements this idea. As a proof of concept, it also includes a vid
 
 ## Demo
 
-Go here to start a demo: [demo.dwrtc.net](https://demo.dwrtc.net)  or connect to a node directly: [node1.dwrtc.net](https://node1.dwrtc.net),  [node2.dwrtc.net](https://node2.dwrtc.net)
+Go here to start a demo: [demo.dwrtc.net](https://demo.dwrtc.net) or connect to a node directly: [node1.dwrtc.net](https://node1.dwrtc.net), [node2.dwrtc.net](https://node2.dwrtc.net)
 
 ## Local Usage
 
