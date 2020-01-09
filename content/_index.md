@@ -11,10 +11,6 @@ DWRTC extends WebRTC with a decentralized connection setup. Users connect to dif
 
 This project implements this idea. As a proof of concept, it also includes a video call application using DWRTC to establish calls to a partner.
 
-## Demo
-
-Go here to start a demo: [demo.dwrtc.net](https://demo.dwrtc.net) or connect to a node directly: [node1.dwrtc.net](https://node1.dwrtc.net), [node2.dwrtc.net](https://node2.dwrtc.net)
-
 ## Local Usage
 
 ```sh
